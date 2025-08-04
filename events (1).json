@@ -1,0 +1,3618 @@
+[
+	{
+		"start_date" : "2009-05-31 00:00:00.000000",
+		"place" : "Fidenza",
+		"latitude" : 44.8661,
+		"longitude" : 10.061,
+		"name" : "Fidenza",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2009-06-28 00:00:00.000000",
+		"place" : "Campegine",
+		"latitude" : 44.783,
+		"longitude" : 10.5293,
+		"name" : "Campegine",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2009-07-11 00:00:00.000000",
+		"place" : "Quartu Sant'Elena",
+		"latitude" : 39.2395,
+		"longitude" : 9.18868,
+		"name" : "Sciampitta - Festa Internazionale del Folklore",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2009-07-22 00:00:00.000000",
+		"place" : "Obidos",
+		"latitude" : 39.3632,
+		"longitude" : -9.15717,
+		"name" : "Mercado Medieval",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2009-10-18 00:00:00.000000",
+		"place" : "San Polo D'Enza",
+		"latitude" : 44.6247,
+		"longitude" : 10.4234,
+		"name" : "San Polo D'Enza",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2010-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8179,
+		"longitude" : -1.6502,
+		"name" : "Cabalgata de los Reyes Magos 2010",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2010-04-05 00:00:00.000000",
+		"place" : "Germania (Kempten, Würzburg, Hannover, Saarbrücken)",
+		"latitude" : 52.3743,
+		"longitude" : 9.73864,
+		"name" : "Musikparade",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2010-08-11 00:00:00.000000",
+		"place" : "Filetto",
+		"latitude" : 44.3013,
+		"longitude" : 9.96047,
+		"name" : "Filetto Rinascimentale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2010-08-27 00:00:00.000000",
+		"place" : "Valenciennes",
+		"latitude" : 50.3577,
+		"longitude" : 3.52334,
+		"name" : "Valenciennes",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8177,
+		"longitude" : -1.64469,
+		"name" : "Cabalgata de los Reyes Magos 2011",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-05-29 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6343,
+		"longitude" : 10.4719,
+		"name" : "Corteo Matildico 2011",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-06-23 00:00:00.000000",
+		"place" : "Salon de Provence",
+		"latitude" : 43.64,
+		"longitude" : 5.09751,
+		"name" : "Reconstitution Historique",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-08-13 00:00:00.000000",
+		"place" : "Iglesias",
+		"latitude" : 39.3128,
+		"longitude" : 8.53652,
+		"name" : "Corteo storico medievale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-09-07 00:00:00.000000",
+		"place" : "Saillon",
+		"latitude" : 46.1706,
+		"longitude" : 7.18432,
+		"name" : "Fêtes Médiévales de Saillon 2011",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-09-17 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8034,
+		"longitude" : 10.3305,
+		"name" : "Palio di Parma 2011",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2011-10-16 00:00:00.000000",
+		"place" : "Montechiarugolo",
+		"latitude" : 44.7023,
+		"longitude" : 10.4284,
+		"name" : "Evento in Villa Vignazza",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8159,
+		"longitude" : -1.63968,
+		"name" : "Cabalgata de los Reyes Magos 2012",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-05-27 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6338,
+		"longitude" : 10.4718,
+		"name" : "Corteo Matildico 2012",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-06-07 00:00:00.000000",
+		"place" : "Affi",
+		"latitude" : 45.5531,
+		"longitude" : 10.7803,
+		"name" : "Festa Medievale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-06-30 00:00:00.000000",
+		"place" : "Beauvais",
+		"latitude" : 49.4303,
+		"longitude" : 2.08253,
+		"name" : "Fêtes Jeanne Hachette",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-07-12 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6358,
+		"longitude" : 10.4732,
+		"name" : "Evento",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-07-13 00:00:00.000000",
+		"place" : "Visegrad",
+		"latitude" : 47.7912,
+		"longitude" : 18.9735,
+		"name" : "Visegrádi Nemzetközi Palotajátékok 2012",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-08-04 00:00:00.000000",
+		"place" : "Annency",
+		"latitude" : 45.899,
+		"longitude" : 6.12557,
+		"name" : "Fête du lac",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-08-17 00:00:00.000000",
+		"place" : "Passo Fundo",
+		"latitude" : -28.2608,
+		"longitude" : -52.4069,
+		"name" : "Festival Internacional de Folclore",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2012-09-01 00:00:00.000000",
+		"place" : "Lanciano",
+		"latitude" : 42.231,
+		"longitude" : 14.39,
+		"name" : "Il Mastrogiurato",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2013-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8183,
+		"longitude" : -1.64477,
+		"name" : "Cabalgata de los Reyes Magos 2013",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2013-05-01 00:00:00.000000",
+		"place" : "Firenze",
+		"latitude" : 43.7695,
+		"longitude" : 11.2556,
+		"name" : "Trofeo Marzocco",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2013-07-11 00:00:00.000000",
+		"place" : "Visegrád",
+		"latitude" : 47.7861,
+		"longitude" : 18.9672,
+		"name" : "Visegrádi Nemzetközi Palotajátékok 2013",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2013-07-26 00:00:00.000000",
+		"place" : "Razgrad",
+		"latitude" : 43.5256,
+		"longitude" : 26.5233,
+		"name" : "Yogurt Fair and Festival of Folk Traditions and Artistic Crafts",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8149,
+		"longitude" : -1.6437,
+		"name" : "Cabalgata de los Reyes Magos 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-02-04 00:00:00.000000",
+		"place" : "Singapore",
+		"latitude" : 1.28889,
+		"longitude" : 103.848,
+		"name" : "Chingay Parade",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-02-16 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6386,
+		"longitude" : 10.4579,
+		"name" : "Saggio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-02-26 00:00:00.000000",
+		"place" : "Telereggio",
+		"latitude" : 44.6314,
+		"longitude" : 10.4733,
+		"name" : "Telereggio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-03-08 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6321,
+		"longitude" : 10.5344,
+		"name" : "Carnevale 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-03-09 00:00:00.000000",
+		"place" : "Mantova",
+		"latitude" : 45.1599,
+		"longitude" : 10.7964,
+		"name" : "Carnevale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-03-16 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8015,
+		"longitude" : 10.3168,
+		"name" : "Parma",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-03-30 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6388,
+		"longitude" : 10.457,
+		"name" : "Cena Arcieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-04-07 00:00:00.000000",
+		"place" : "Modena",
+		"latitude" : 44.646,
+		"longitude" : 10.9257,
+		"name" : "Modena",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-04-26 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2847,
+		"longitude" : 11.8804,
+		"name" : "Torneo \"Il Rosso... nel Cuore\"",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2014-05-04 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6136,
+		"longitude" : 10.4569,
+		"name" : "Madonna della Battaglia 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-05-11 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9221,
+		"longitude" : 10.6555,
+		"name" : "Gnoccata 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-05-11 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6965,
+		"longitude" : 10.6324,
+		"name" : "Memorial Piero Buchignani",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-05-17 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.6989,
+		"longitude" : 10.4481,
+		"name" : "Montecchio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-05-18 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.6427,
+		"longitude" : 10.5819,
+		"name" : "Festa dello sport UISP 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-05-20 00:00:00.000000",
+		"place" : "Roma",
+		"latitude" : 41.9338,
+		"longitude" : 12.4546,
+		"name" : "Spettacolo per Italia–Brasile",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-05-24 00:00:00.000000",
+		"place" : "Asti",
+		"latitude" : 44.9114,
+		"longitude" : 8.2002,
+		"name" : "1° Torneo Cavalieri della Torre",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2014-05-31 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6304,
+		"longitude" : 10.4736,
+		"name" : "Corteo Matildico 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-01 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6303,
+		"longitude" : 10.4737,
+		"name" : "Corteo Matildico 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-02 00:00:00.000000",
+		"place" : "Bibbiano",
+		"latitude" : 44.6632,
+		"longitude" : 10.473,
+		"name" : "Bibbiano",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-07 00:00:00.000000",
+		"place" : "Affi",
+		"latitude" : 45.5553,
+		"longitude" : 10.7802,
+		"name" : "Festa medievale di Affi 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-07 00:00:00.000000",
+		"place" : "Fidenza",
+		"latitude" : 44.8662,
+		"longitude" : 10.0614,
+		"name" : "Fidenza",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-08 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6305,
+		"longitude" : 10.5361,
+		"name" : "Sagra dello Scarpasoun 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-14 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6998,
+		"longitude" : 10.6311,
+		"name" : "World Donor Day 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-18 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6982,
+		"longitude" : 10.6324,
+		"name" : "Notte Rosa",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-06-27 00:00:00.000000",
+		"place" : "Carovigno",
+		"latitude" : 40.7061,
+		"longitude" : 17.6593,
+		"name" : "Giochi Giovanili 2014",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2014-07-06 00:00:00.000000",
+		"place" : "Ripa di Seravezza",
+		"latitude" : 43.9949,
+		"longitude" : 10.2264,
+		"name" : "Tenzone Bronzea 2014",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2014-07-09 00:00:00.000000",
+		"place" : "Visegrad",
+		"latitude" : 47.7826,
+		"longitude" : 18.9703,
+		"name" : "Visegrádi Nemzetközi Palotajátékok 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-07-24 00:00:00.000000",
+		"place" : "Masone",
+		"latitude" : 44.6686,
+		"longitude" : 10.7103,
+		"name" : "Torneo di calcio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-07-26 00:00:00.000000",
+		"place" : "Lugo",
+		"latitude" : 44.4202,
+		"longitude" : 11.9113,
+		"name" : "Tenzone Argentea 2014",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2014-07-26 00:00:00.000000",
+		"place" : "Bibbiena",
+		"latitude" : 43.7004,
+		"longitude" : 11.8105,
+		"name" : "Bandiere Sotto le Stelle",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-08-14 00:00:00.000000",
+		"place" : "Manno",
+		"latitude" : 44.3884,
+		"longitude" : 10.5656,
+		"name" : "Festa medievale di Manno 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-08-15 00:00:00.000000",
+		"place" : "Manno",
+		"latitude" : 44.3884,
+		"longitude" : 10.5655,
+		"name" : "Festa medievale di Manno 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-08-30 00:00:00.000000",
+		"place" : "Felino",
+		"latitude" : 44.684,
+		"longitude" : 10.2368,
+		"name" : "Matrimonio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-08-30 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5281,
+		"longitude" : 10.5645,
+		"name" : "Sagra di Querciola 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-08-31 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5279,
+		"longitude" : 10.5613,
+		"name" : "Sagra di Querciola 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-06 00:00:00.000000",
+		"place" : "Lanciano",
+		"latitude" : 42.2289,
+		"longitude" : 14.3874,
+		"name" : "Mastrogiurato 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-06 00:00:00.000000",
+		"place" : "Trento",
+		"latitude" : 46.0672,
+		"longitude" : 11.1215,
+		"name" : "Palio di Trento",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-12 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6718,
+		"longitude" : 10.633,
+		"name" : "Festa del rugby",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-20 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8011,
+		"longitude" : 10.328,
+		"name" : "Palio di Parma 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-21 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8011,
+		"longitude" : 10.3279,
+		"name" : "Palio di Parma 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-21 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6318,
+		"longitude" : 10.5366,
+		"name" : "Sagra",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-27 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5976,
+		"longitude" : 10.69,
+		"name" : "Palio dell'Angelica 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-09-28 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5976,
+		"longitude" : 10.69,
+		"name" : "Palio dell'Angelica 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-10-05 00:00:00.000000",
+		"place" : "Calerno",
+		"latitude" : 44.7487,
+		"longitude" : 10.4861,
+		"name" : "Festa della Castagna",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-10-19 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6336,
+		"longitude" : 10.4762,
+		"name" : "Fiera d'ottobre 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-10-23 00:00:00.000000",
+		"place" : "Bibbiano",
+		"latitude" : 44.659,
+		"longitude" : 10.467,
+		"name" : "Festa alla scuola delle suore",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-10-31 00:00:00.000000",
+		"place" : "Campegine",
+		"latitude" : 44.7818,
+		"longitude" : 10.532,
+		"name" : "Festa di Halloween 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-10-31 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9202,
+		"longitude" : 10.6543,
+		"name" : "Festa di Halloween",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-11-14 00:00:00.000000",
+		"place" : "San Martino in Rio",
+		"latitude" : 44.7322,
+		"longitude" : 10.7864,
+		"name" : "Fiera di San Martino 2014",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2014-11-15 00:00:00.000000",
+		"place" : "Saletto",
+		"latitude" : 45.226,
+		"longitude" : 11.5344,
+		"name" : "VI Torneo Indoor città di Saletto",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2014-12-07 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2849,
+		"longitude" : 11.8834,
+		"name" : "Torneo Wild Card",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8167,
+		"longitude" : -1.6418,
+		"name" : "Cabalgata de los Reyes Magos 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-02-08 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6308,
+		"longitude" : 10.5357,
+		"name" : "Festa di Carnevale 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-02-22 00:00:00.000000",
+		"place" : "Mantova",
+		"latitude" : 45.1566,
+		"longitude" : 10.7963,
+		"name" : "Festa di Carnevale 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-03-07 00:00:00.000000",
+		"place" : "Volterra",
+		"latitude" : 43.403,
+		"longitude" : 10.8591,
+		"name" : "XII Torneo Indoor città di Volterra",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-03-15 00:00:00.000000",
+		"place" : "Cerreto Guidi",
+		"latitude" : 43.7569,
+		"longitude" : 10.8778,
+		"name" : "VII° Torneo Indoor di Cerreto Guidi",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-03-29 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6387,
+		"longitude" : 10.4569,
+		"name" : "Spettacolo per torneo arcieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-04-11 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8323,
+		"longitude" : 11.6307,
+		"name" : "Le Bandiere del Cuore 2015",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-04-19 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6819,
+		"longitude" : 10.6729,
+		"name" : "Festa dell'AIMA",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-04-19 00:00:00.000000",
+		"place" : "Novellara",
+		"latitude" : 44.8443,
+		"longitude" : 10.7291,
+		"name" : "Diretta RAI \"Mezzogiorno in famiglia\"",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-04-25 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8537,
+		"longitude" : 13.5811,
+		"name" : "Torneo di Porta Romana",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-05-01 00:00:00.000000",
+		"place" : "Firenze",
+		"latitude" : 43.7697,
+		"longitude" : 11.2564,
+		"name" : "Trofeo Marzocco 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-05-02 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2853,
+		"longitude" : 11.8895,
+		"name" : "3° Torneo del Pino Nero",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-05-03 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6131,
+		"longitude" : 10.4565,
+		"name" : "Madonna della Battaglia 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-05-17 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.702,
+		"longitude" : 10.653,
+		"name" : "Torneo di calcio - Insieme per non dimenticare",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-05-24 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.6991,
+		"longitude" : 10.4511,
+		"name" : "Festa dell'asilo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-05-24 00:00:00.000000",
+		"place" : "Piancastagnaio",
+		"latitude" : 42.8513,
+		"longitude" : 11.6876,
+		"name" : "1° Raduno Sbandieratori e Tamburini",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-05-30 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6359,
+		"longitude" : 10.4731,
+		"name" : "Torneo del Bianello 2015",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-05-31 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6312,
+		"longitude" : 10.4739,
+		"name" : "Corteo Matildico 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-06-05 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.6249,
+		"longitude" : 10.563,
+		"name" : "Festa dell'asilo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-06-06 00:00:00.000000",
+		"place" : "Affi",
+		"latitude" : 45.5542,
+		"longitude" : 10.7832,
+		"name" : "Festa medievale di Affi 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-06-07 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6329,
+		"longitude" : 10.5404,
+		"name" : "Sagra dello Scarpasoun 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-06-14 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9213,
+		"longitude" : 10.6588,
+		"name" : "Festa dell'AVIS",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-06-21 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.6442,
+		"longitude" : 10.5841,
+		"name" : "Festa dello sport UISP ",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-06-26 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8542,
+		"longitude" : 13.5736,
+		"name" : "Giochi Giovanili 2015",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2015-07-03 00:00:00.000000",
+		"place" : "Arceto",
+		"latitude" : 44.6196,
+		"longitude" : 10.7221,
+		"name" : "Notte bianca del bambino",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-07-07 00:00:00.000000",
+		"place" : "Visegrad",
+		"latitude" : 47.7854,
+		"longitude" : 18.97,
+		"name" : "Visegrádi Nemzetközi Palotajátékok 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-07-11 00:00:00.000000",
+		"place" : "Finale Ligure",
+		"latitude" : 44.1697,
+		"longitude" : 8.34637,
+		"name" : "Festa medievale 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-07-15 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8376,
+		"longitude" : 11.6193,
+		"name" : "Tenzone Argentea 2015",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2015-07-23 00:00:00.000000",
+		"place" : "Masone",
+		"latitude" : 44.6692,
+		"longitude" : 10.7112,
+		"name" : "Sagra locale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-07-26 00:00:00.000000",
+		"place" : "Cerreto Alpi",
+		"latitude" : 44.3216,
+		"longitude" : 10.2516,
+		"name" : "Rievocazione storica",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-07-26 00:00:00.000000",
+		"place" : "Frassinoro",
+		"latitude" : 44.2938,
+		"longitude" : 10.5691,
+		"name" : "Festa medievale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-12 00:00:00.000000",
+		"place" : "Vallisnera",
+		"latitude" : 44.3637,
+		"longitude" : 10.2617,
+		"name" : "Rievocazione storica di Vallisnera 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-14 00:00:00.000000",
+		"place" : "Manno",
+		"latitude" : 44.3879,
+		"longitude" : 10.565,
+		"name" : "Festa medievale di Manno 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-15 00:00:00.000000",
+		"place" : "Manno",
+		"latitude" : 44.3877,
+		"longitude" : 10.5649,
+		"name" : "Festa medievale di Manno 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-22 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6988,
+		"longitude" : 10.6318,
+		"name" : "Festareggio 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-23 00:00:00.000000",
+		"place" : "Compiano",
+		"latitude" : 44.4963,
+		"longitude" : 9.66233,
+		"name" : "Castello di Compiano",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-26 00:00:00.000000",
+		"place" : "Roncolo",
+		"latitude" : 44.6337,
+		"longitude" : 10.4962,
+		"name" : "Mercatino di Roncolo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-29 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5279,
+		"longitude" : 10.5618,
+		"name" : "Sagra di Querciola 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-08-30 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5279,
+		"longitude" : 10.5627,
+		"name" : "Sagra di Querciola 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-05 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5952,
+		"longitude" : 10.4091,
+		"name" : "Palio di Ciano 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-06 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5955,
+		"longitude" : 10.4089,
+		"name" : "Palio di Ciano 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-10 00:00:00.000000",
+		"place" : "Saillon",
+		"latitude" : 46.1712,
+		"longitude" : 7.18446,
+		"name" : "Fêtes Médiévales de Saillon",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-13 00:00:00.000000",
+		"place" : "Milano",
+		"latitude" : 45.4696,
+		"longitude" : 9.19418,
+		"name" : "Expo Milano 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-19 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8034,
+		"longitude" : 10.3311,
+		"name" : "Palio di Parma 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-20 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8032,
+		"longitude" : 10.3311,
+		"name" : "Palio di Parma 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-26 00:00:00.000000",
+		"place" : "Milano",
+		"latitude" : 45.4697,
+		"longitude" : 9.20105,
+		"name" : "Expo Milano 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-26 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.6032,
+		"longitude" : 10.6922,
+		"name" : "Palio dell'Angelica 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-27 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5999,
+		"longitude" : 10.6894,
+		"name" : "Palio dell'Angelica 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-09-27 00:00:00.000000",
+		"place" : "Borgotaro",
+		"latitude" : 44.4896,
+		"longitude" : 9.7678,
+		"name" : "Sagra del fungo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-10-03 00:00:00.000000",
+		"place" : "Thiene",
+		"latitude" : 45.7058,
+		"longitude" : 11.4795,
+		"name" : "Mercato Rinascimentale Europeo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-10-11 00:00:00.000000",
+		"place" : "Vicofertile",
+		"latitude" : 44.7851,
+		"longitude" : 10.2591,
+		"name" : "Festa della castagna",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-10-18 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6376,
+		"longitude" : 10.4715,
+		"name" : "Fiera d'ottobre 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-10-31 00:00:00.000000",
+		"place" : "Campegine",
+		"latitude" : 44.7815,
+		"longitude" : 10.5283,
+		"name" : "Festa di Halloween 2015",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-11-14 00:00:00.000000",
+		"place" : "Saletto",
+		"latitude" : 45.2264,
+		"longitude" : 11.5329,
+		"name" : "V° Torneo Indoor città di Saletto",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-11-15 00:00:00.000000",
+		"place" : "Poviglio",
+		"latitude" : 44.8425,
+		"longitude" : 10.5425,
+		"name" : "Festa dell'Avis",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2015-12-07 00:00:00.000000",
+		"place" : "Collegno",
+		"latitude" : 45.0768,
+		"longitude" : 7.5701,
+		"name" : "XI Torneo Conte Verde Indoor",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2015-12-08 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6387,
+		"longitude" : 10.4578,
+		"name" : "Cena Arcieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8158,
+		"longitude" : -1.63938,
+		"name" : "Cabalgata de los Reyes Magos 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-02-06 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6309,
+		"longitude" : 10.5373,
+		"name" : "Carnevale 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-02-07 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8388,
+		"longitude" : 11.6212,
+		"name" : "Festa di Carnevale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-02-14 00:00:00.000000",
+		"place" : "Mantova",
+		"latitude" : 45.159,
+		"longitude" : 10.7941,
+		"name" : "Carnevale 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-03-19 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8355,
+		"longitude" : 11.6187,
+		"name" : "Memorial Natalino Accorsi",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2016-04-02 00:00:00.000000",
+		"place" : "Cerro Tanaro",
+		"latitude" : 44.872,
+		"longitude" : 8.36021,
+		"name" : "IX° Memoriale Don Giacomo Accossato",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2016-04-09 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8393,
+		"longitude" : 11.612,
+		"name" : "Le Bandiere del Cuore",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2016-04-10 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6817,
+		"longitude" : 10.6725,
+		"name" : "AIMA Mauriziano 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-04-16 00:00:00.000000",
+		"place" : "Fusignano",
+		"latitude" : 44.4675,
+		"longitude" : 11.9592,
+		"name" : "II° Torneo \"Fusi... di bandiera\"",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2016-04-25 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8385,
+		"longitude" : 11.6165,
+		"name" : "Torneo dell'Idra",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2016-04-26 00:00:00.000000",
+		"place" : "Nazionale Doha",
+		"latitude" : 25.27,
+		"longitude" : 51.5131,
+		"name" : "Qatar Cup Final",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-05-01 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8332,
+		"longitude" : 11.6213,
+		"name" : "Omaggio al Duca 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-05-01 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6133,
+		"longitude" : 10.457,
+		"name" : "Madonna della Battaglia 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-05-22 00:00:00.000000",
+		"place" : "Rivalta",
+		"latitude" : 44.6432,
+		"longitude" : 10.5836,
+		"name" : "Uscita Vasca di Corbelli",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-05-26 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.714,
+		"longitude" : 10.6495,
+		"name" : "Finale Women's Champions League ",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-05-28 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6311,
+		"longitude" : 10.4719,
+		"name" : "Corteo Matildico 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-02 00:00:00.000000",
+		"place" : "Cavallino-Treporti",
+		"latitude" : 45.477,
+		"longitude" : 12.5479,
+		"name" : "Festa dea Sparesea",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-11 00:00:00.000000",
+		"place" : "Affi",
+		"latitude" : 45.5532,
+		"longitude" : 10.7742,
+		"name" : "Festa medievale di Affi 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-12 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6337,
+		"longitude" : 10.5351,
+		"name" : "Sagra dello Scarpasoun 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-12 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6311,
+		"longitude" : 10.472,
+		"name" : "Corteo Matildico 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-14 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6779,
+		"longitude" : 10.6809,
+		"name" : "Festa asilo Maramotti",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-17 00:00:00.000000",
+		"place" : "Barco",
+		"latitude" : 44.6875,
+		"longitude" : 10.4934,
+		"name" : "BarcoOff",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-18 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7001,
+		"longitude" : 10.4453,
+		"name" : "Monticulum 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-19 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7001,
+		"longitude" : 10.4452,
+		"name" : "Monticulum 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-19 00:00:00.000000",
+		"place" : "Baku",
+		"latitude" : 40.385,
+		"longitude" : 49.836,
+		"name" : "Cerimonia apertura \"GP Europa\"",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-06-24 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8359,
+		"longitude" : 11.6247,
+		"name" : "Giochi Giovanili 2016",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2016-07-09 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.632,
+		"longitude" : 10.472,
+		"name" : "Matrimonio Anto",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-07-22 00:00:00.000000",
+		"place" : "Carovigno",
+		"latitude" : 40.7067,
+		"longitude" : 17.6588,
+		"name" : "Tenzone Argentea 2016",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2016-07-31 00:00:00.000000",
+		"place" : "Frassinoro",
+		"latitude" : 44.296,
+		"longitude" : 10.5732,
+		"name" : "Festa medievale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-08-14 00:00:00.000000",
+		"place" : "Camaiore",
+		"latitude" : 43.9375,
+		"longitude" : 10.3041,
+		"name" : "Festa di Camaiore",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-08-18 00:00:00.000000",
+		"place" : "Vallisnera",
+		"latitude" : 44.363,
+		"longitude" : 10.2636,
+		"name" : "Rievocazione storica Vallisnera 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-08-21 00:00:00.000000",
+		"place" : "Pontremoli",
+		"latitude" : 44.3799,
+		"longitude" : 9.88203,
+		"name" : "Torneo con giuria popolare",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-01 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6973,
+		"longitude" : 10.657,
+		"name" : "Festa Reggio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-03 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5281,
+		"longitude" : 10.5629,
+		"name" : "Sagra di Querciola 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-03 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5962,
+		"longitude" : 10.4123,
+		"name" : "Palio di Ciano 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-04 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.528,
+		"longitude" : 10.5624,
+		"name" : "Sagra di Querciola 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-04 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5953,
+		"longitude" : 10.4111,
+		"name" : "Palio di Ciano 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-17 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8056,
+		"longitude" : 10.3271,
+		"name" : "Palio di Parma 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-18 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8055,
+		"longitude" : 10.3271,
+		"name" : "Palio di Parma 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-24 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5968,
+		"longitude" : 10.6882,
+		"name" : "Palio dell'Angelica 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-09-25 00:00:00.000000",
+		"place" : "Scandiano - Parma",
+		"latitude" : 44.8083,
+		"longitude" : 10.3107,
+		"name" : "Palio dell'Angelica 2016 - Uscita a Parma",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-10-23 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.638,
+		"longitude" : 10.4695,
+		"name" : "Festa d'ottobre 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-10-31 00:00:00.000000",
+		"place" : "Campegine",
+		"latitude" : 44.7813,
+		"longitude" : 10.5283,
+		"name" : "Festa di Halloween 2016",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-11-13 00:00:00.000000",
+		"place" : "Viano",
+		"latitude" : 44.5428,
+		"longitude" : 10.6198,
+		"name" : "Festa del tartufo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2016-12-11 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6328,
+		"longitude" : 10.5334,
+		"name" : "Maratona",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8098,
+		"longitude" : -1.64433,
+		"name" : "Cabalgata de los Reyes Magos 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-02-26 00:00:00.000000",
+		"place" : "Mantova",
+		"latitude" : 45.1581,
+		"longitude" : 10.7942,
+		"name" : "Festa di Carnevale 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-02-26 00:00:00.000000",
+		"place" : "Point Saint Martin",
+		"latitude" : 45.5994,
+		"longitude" : 7.79787,
+		"name" : "Carnevale Storico",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-02-26 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.6023,
+		"longitude" : 10.6942,
+		"name" : "Carnevale di Scandiano",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-03-05 00:00:00.000000",
+		"place" : "Castelbelforte",
+		"latitude" : 45.2158,
+		"longitude" : 10.8919,
+		"name" : "Festa di Carnevale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-03-25 00:00:00.000000",
+		"place" : "Carpi",
+		"latitude" : 44.7841,
+		"longitude" : 10.8857,
+		"name" : "Inaugurazione del Duomo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-03-29 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6387,
+		"longitude" : 10.4568,
+		"name" : "Cena BUS",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-04-02 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8423,
+		"longitude" : 11.6194,
+		"name" : "Torneo S.Benedetto",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-04-08 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8414,
+		"longitude" : 11.6074,
+		"name" : "Torneo S.Giovanni",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-04-25 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8353,
+		"longitude" : 11.6227,
+		"name" : "Trofeo dell'Idra",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-04-30 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2857,
+		"longitude" : 11.8838,
+		"name" : "Torneo del Rosso",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-04-30 00:00:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6301,
+		"longitude" : 9.72865,
+		"name" : "Grande Tenzone Medievale 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-04-30 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6385,
+		"longitude" : 10.4579,
+		"name" : "Spettacolo arcieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-05-01 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8348,
+		"longitude" : 11.6232,
+		"name" : "Omaggio al Duca",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-05-07 00:00:00.000000",
+		"place" : "Carpineti - Sede MdB",
+		"latitude" : 44.4561,
+		"longitude" : 10.5184,
+		"name" : "Amorotto Trail 2017 - Spettacolo in sede",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-05-20 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9207,
+		"longitude" : 10.6543,
+		"name" : "Gnoccata di Guastalla 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-05-21 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9192,
+		"longitude" : 10.6536,
+		"name" : "Gnoccata di Guastalla 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-05-27 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6315,
+		"longitude" : 10.4713,
+		"name" : "Corteo Matildico 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-05-28 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6315,
+		"longitude" : 10.4713,
+		"name" : "Corteo Matildico 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-07 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.6302,
+		"longitude" : 10.5667,
+		"name" : "Festa di fine anno scolastico 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-10 00:00:00.000000",
+		"place" : "Affi",
+		"latitude" : 45.5548,
+		"longitude" : 10.7784,
+		"name" : "Festa medievale di Affi 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-11 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6309,
+		"longitude" : 10.5347,
+		"name" : "Sagra dello Scarpasoun 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-16 00:00:00.000000",
+		"place" : "Bibbiano",
+		"latitude" : 44.6619,
+		"longitude" : 10.4726,
+		"name" : "Spettacolo/prove piccola",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-17 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.6987,
+		"longitude" : 10.4482,
+		"name" : "Monticulum 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-18 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.6987,
+		"longitude" : 10.4482,
+		"name" : "Monticulum 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-06-23 00:00:00.000000",
+		"place" : "Volterra",
+		"latitude" : 43.402,
+		"longitude" : 10.8596,
+		"name" : "Giochi Giovanili 2017",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2017-07-08 00:00:00.000000",
+		"place" : "Modena",
+		"latitude" : 44.651,
+		"longitude" : 10.9227,
+		"name" : "World Bands Challenge",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-07-21 00:00:00.000000",
+		"place" : "Giove",
+		"latitude" : 42.5094,
+		"longitude" : 12.325,
+		"name" : "Festival internazionale del folklore",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-07-30 00:00:00.000000",
+		"place" : "Frassinoro",
+		"latitude" : 44.2953,
+		"longitude" : 10.5708,
+		"name" : "Festa medievale di Frassinoro",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-06 00:00:00.000000",
+		"place" : "Fanano",
+		"latitude" : 44.2076,
+		"longitude" : 10.7937,
+		"name" : "Spettacolo gara arcieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-12 00:00:00.000000",
+		"place" : "Villa Minozzo",
+		"latitude" : 44.3646,
+		"longitude" : 10.4671,
+		"name" : "Festa del volontariato",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-18 00:00:00.000000",
+		"place" : "Vallisnera",
+		"latitude" : 44.3608,
+		"longitude" : 10.266,
+		"name" : "Fiera di Vallisnera 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-20 00:00:00.000000",
+		"place" : "Mondaino",
+		"latitude" : 43.8558,
+		"longitude" : 12.6714,
+		"name" : "Palio di Mondaino 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-21 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5746,
+		"longitude" : 10.8449,
+		"name" : "Ludi di San Bartolomeo 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-22 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5746,
+		"longitude" : 10.8451,
+		"name" : "Ludi di San Bartolomeo 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-26 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5281,
+		"longitude" : 10.5622,
+		"name" : "Sagra di Querciola 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-08-27 00:00:00.000000",
+		"place" : "Querciola",
+		"latitude" : 44.5281,
+		"longitude" : 10.563,
+		"name" : "Sagra di Querciola 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-01 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5938,
+		"longitude" : 10.4086,
+		"name" : "Palio di Ciano 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-02 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5938,
+		"longitude" : 10.4086,
+		"name" : "Palio di Ciano 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-07 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8536,
+		"longitude" : 13.5764,
+		"name" : "Tenzone Aurea 2017",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2017-09-16 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8061,
+		"longitude" : 10.3189,
+		"name" : "Palio di Parma 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-17 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8062,
+		"longitude" : 10.319,
+		"name" : "Palio di Parma 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-20 00:00:00.000000",
+		"place" : "Roma",
+		"latitude" : 41.9022,
+		"longitude" : 12.4573,
+		"name" : "FISB - Convocazione con il Papa",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-23 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5984,
+		"longitude" : 10.6894,
+		"name" : "Palio dell'Angelica 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-09-24 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5984,
+		"longitude" : 10.6894,
+		"name" : "Palio dell'Angelica 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-10-22 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6349,
+		"longitude" : 10.4808,
+		"name" : "Fiera d'ottobre 2017",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-10-29 00:00:00.000000",
+		"place" : "Albinea",
+		"latitude" : 44.6225,
+		"longitude" : 10.6034,
+		"name" : "Festa dei ciccioli",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-10-29 00:00:00.000000",
+		"place" : "Carpineti",
+		"latitude" : 44.4485,
+		"longitude" : 10.5277,
+		"name" : "Riprese per video musicale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-11-11 00:00:00.000000",
+		"place" : "Saletto",
+		"latitude" : 45.2266,
+		"longitude" : 11.5326,
+		"name" : "Torneo di Saletto",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-11-25 00:00:00.000000",
+		"place" : "Busnago",
+		"latitude" : 45.6162,
+		"longitude" : 9.46318,
+		"name" : "Torneo di Busnago",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-12-02 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2872,
+		"longitude" : 11.8831,
+		"name" : "Torneo del Giallo",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2017-12-03 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6387,
+		"longitude" : 10.4577,
+		"name" : "Cena arcieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2017-12-10 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6315,
+		"longitude" : 10.5374,
+		"name" : "Maratona Montecavolo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8136,
+		"longitude" : -1.64691,
+		"name" : "Cabalgata de los Reyes Magos 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-02-04 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6933,
+		"longitude" : 10.6414,
+		"name" : "Partita di rugby",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-02-10 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6305,
+		"longitude" : 10.5369,
+		"name" : "Festa di Carnevale 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-03-24 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2867,
+		"longitude" : 11.8808,
+		"name" : "Torneo del Verde",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2018-03-25 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8388,
+		"longitude" : 11.6174,
+		"name" : "Torneo di San Benedetto",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2018-04-02 00:00:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6318,
+		"longitude" : 9.72992,
+		"name" : "Grande Tenzone Medievale 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-04-07 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2869,
+		"longitude" : 11.8815,
+		"name" : "Torneo del Bianco",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2018-04-18 00:00:00.000000",
+		"place" : "Sede MdB",
+		"latitude" : 44.6384,
+		"longitude" : 10.4571,
+		"name" : "Cena studenti Olandesi",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-04-22 00:00:00.000000",
+		"place" : "Seravezza",
+		"latitude" : 43.9943,
+		"longitude" : 10.2264,
+		"name" : "Torneo Pozzo di Seravezza",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2018-04-30 00:00:00.000000",
+		"place" : "Weilburg",
+		"latitude" : 50.4549,
+		"longitude" : 8.29795,
+		"name" : "Freienfelser Ritterspiele 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-06 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9152,
+		"longitude" : 10.6518,
+		"name" : "Fiera di San Giacomo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-06 00:00:00.000000",
+		"place" : "MdB",
+		"latitude" : 44.638,
+		"longitude" : 10.457,
+		"name" : "Spettacolo in sede",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-12 00:00:00.000000",
+		"place" : "Basilicanova",
+		"latitude" : 44.6966,
+		"longitude" : 10.3539,
+		"name" : "Fiera di Basilicanova",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-12 00:00:00.000000",
+		"place" : "Carpineti",
+		"latitude" : 44.4557,
+		"longitude" : 10.5186,
+		"name" : "Amorotto Trail",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-13 00:00:00.000000",
+		"place" : "Carpineti",
+		"latitude" : 44.4558,
+		"longitude" : 10.5187,
+		"name" : "Amorotto Trail",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-26 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6312,
+		"longitude" : 10.4731,
+		"name" : "Corteo Matildico 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-05-27 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6311,
+		"longitude" : 10.473,
+		"name" : "Corteo Matildico 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-02 00:00:00.000000",
+		"place" : "Canossa",
+		"latitude" : 44.5756,
+		"longitude" : 10.4558,
+		"name" : "Inaugurazione stele Michele Scarponi",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-02 00:00:00.000000",
+		"place" : "Villalunga",
+		"latitude" : 44.5667,
+		"longitude" : 10.7645,
+		"name" : "Secchia in Festa",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-03 00:00:00.000000",
+		"place" : "Neviano",
+		"latitude" : 44.5824,
+		"longitude" : 10.3156,
+		"name" : "Festa delle Rose",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-08 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6795,
+		"longitude" : 10.6817,
+		"name" : "Asilo Maramotti",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-09 00:00:00.000000",
+		"place" : "Affi",
+		"latitude" : 45.5538,
+		"longitude" : 10.7759,
+		"name" : "Festa medievale di Affi",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-10 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6317,
+		"longitude" : 10.5367,
+		"name" : "Sagra dello Scarpasoun",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-16 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.6999,
+		"longitude" : 10.4454,
+		"name" : "Monticulum 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-17 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7001,
+		"longitude" : 10.4463,
+		"name" : "Monticulum 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-06-29 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8534,
+		"longitude" : 13.5778,
+		"name" : "Giochi Giovanili 2018",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2018-07-08 00:00:00.000000",
+		"place" : "Modena",
+		"latitude" : 44.6509,
+		"longitude" : 10.9209,
+		"name" : "Music Parade",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-07-14 00:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.4963,
+		"longitude" : 10.6013,
+		"name" : "Tavola di Bisanzio 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-07-15 00:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.4962,
+		"longitude" : 10.6006,
+		"name" : "Tavola di Bisanzio 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-07-20 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8358,
+		"longitude" : 11.6206,
+		"name" : "Tenzone Argentea 2018",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2018-07-26 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5752,
+		"longitude" : 10.847,
+		"name" : "Sere Destate",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-07-27 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5749,
+		"longitude" : 10.8457,
+		"name" : "Sere Destate",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-07-29 00:00:00.000000",
+		"place" : "Frassinoro",
+		"latitude" : 44.2956,
+		"longitude" : 10.572,
+		"name" : "Settimana Matildica",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-07-30 00:00:00.000000",
+		"place" : "Viano",
+		"latitude" : 44.5431,
+		"longitude" : 10.6211,
+		"name" : "Spettacolino",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-08-11 00:00:00.000000",
+		"place" : "Villa Minozzo",
+		"latitude" : 44.3641,
+		"longitude" : 10.4663,
+		"name" : "Festa della Croce Verde",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-08-18 00:00:00.000000",
+		"place" : "Vallisnera",
+		"latitude" : 44.3632,
+		"longitude" : 10.2629,
+		"name" : "Rievocazione storica Vallisnera",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-08-31 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5938,
+		"longitude" : 10.4088,
+		"name" : "Palio di Ciano 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-01 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5937,
+		"longitude" : 10.4089,
+		"name" : "Palio di Ciano 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-02 00:00:00.000000",
+		"place" : "Novellara",
+		"latitude" : 44.8432,
+		"longitude" : 10.7265,
+		"name" : "Festa dell'AVIS",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-08 00:00:00.000000",
+		"place" : "Castelvetro",
+		"latitude" : 44.5034,
+		"longitude" : 10.9439,
+		"name" : "Dama Vivente",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-09 00:00:00.000000",
+		"place" : "Castelvetro",
+		"latitude" : 44.5032,
+		"longitude" : 10.9439,
+		"name" : "Dama Vivente",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-15 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8038,
+		"longitude" : 10.3275,
+		"name" : "Palio di Parma 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-16 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8039,
+		"longitude" : 10.3275,
+		"name" : "Palio di Parma 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-29 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5976,
+		"longitude" : 10.6864,
+		"name" : "Palio dell'Angelica 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-09-30 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.598,
+		"longitude" : 10.6876,
+		"name" : "Palio dell'Angelica 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-10-21 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6363,
+		"longitude" : 10.4727,
+		"name" : "Fiera d'ottobre 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-11-10 00:00:00.000000",
+		"place" : "Saletto",
+		"latitude" : 45.2267,
+		"longitude" : 11.5338,
+		"name" : "VIII Torneo indoor Trofeo di San Martino",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2018-11-18 00:00:00.000000",
+		"place" : "Cremona",
+		"latitude" : 45.1351,
+		"longitude" : 10.0245,
+		"name" : "Festa del Torrone 2018",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2018-11-24 00:00:00.000000",
+		"place" : "Busnago",
+		"latitude" : 45.6159,
+		"longitude" : 9.46665,
+		"name" : "1° Torneo indoor di Torre dei Germani",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2019-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8184,
+		"longitude" : -1.64414,
+		"name" : "Cabalgata de Los Reyes Magos 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-03-02 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6306,
+		"longitude" : 10.5364,
+		"name" : "Festa di Carnevale 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-04-22 00:00:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6294,
+		"longitude" : 9.73138,
+		"name" : "Grande Tenzone Medievale 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-04-30 00:00:00.000000",
+		"place" : "Germania",
+		"latitude" : 50.4563,
+		"longitude" : 8.29515,
+		"name" : "Freienfelser Ritterspiele",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-05-31 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.6303,
+		"longitude" : 10.5674,
+		"name" : "Festa di fine anno scolastico",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-01 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6318,
+		"longitude" : 10.5356,
+		"name" : "Sagra dello Scarpasoun",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-02 00:00:00.000000",
+		"place" : "Neviano - Montecavolo",
+		"latitude" : 44.5812,
+		"longitude" : 10.3143,
+		"name" : "Festa delle Rose - Sagra dello Scarpasoun",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-07 00:00:00.000000",
+		"place" : "Rivalta",
+		"latitude" : 44.644,
+		"longitude" : 10.5817,
+		"name" : "Spettacolo under",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-08 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6306,
+		"longitude" : 10.4731,
+		"name" : "Corteo Matildico 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-09 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6305,
+		"longitude" : 10.4728,
+		"name" : "Corteo Matildico 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-15 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7007,
+		"longitude" : 10.4465,
+		"name" : "Monticulum 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-16 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7007,
+		"longitude" : 10.4465,
+		"name" : "Monticulum 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-27 00:00:00.000000",
+		"place" : "Bibbiano",
+		"latitude" : 44.6637,
+		"longitude" : 10.4728,
+		"name" : "Fiera di Bibbiano",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-06-28 00:00:00.000000",
+		"place" : "Carovigno",
+		"latitude" : 40.7059,
+		"longitude" : 17.6591,
+		"name" : "Campionati Giovanili 2019",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2019-06-28 00:00:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7029,
+		"longitude" : 10.4512,
+		"name" : "Festa di fine Grest",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-07-14 00:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.4965,
+		"longitude" : 10.6021,
+		"name" : "Tavola di Bisanzio 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-08-10 00:00:00.000000",
+		"place" : "Villa Minozzo",
+		"latitude" : 44.3631,
+		"longitude" : 10.4651,
+		"name" : "Festa della Croce Verde",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-08-24 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5753,
+		"longitude" : 10.846,
+		"name" : "Ludi di San Bartolomeo 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-08-30 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5928,
+		"longitude" : 10.4113,
+		"name" : "Palio di Ciano 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-08-31 00:00:00.000000",
+		"place" : "Ciano",
+		"latitude" : 44.5927,
+		"longitude" : 10.4114,
+		"name" : "Palio di Ciano 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-09-07 00:00:00.000000",
+		"place" : "Panocchia",
+		"latitude" : 44.6812,
+		"longitude" : 10.315,
+		"name" : "Festa di matrimonio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-09-13 00:00:00.000000",
+		"place" : "Faenza",
+		"latitude" : 44.2848,
+		"longitude" : 11.8844,
+		"name" : "Tenzone Aurea 2019",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2019-09-21 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8016,
+		"longitude" : 10.328,
+		"name" : "Palio di Parma 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-09-28 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.6,
+		"longitude" : 10.6863,
+		"name" : "Palio dell'Angelica 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-09-29 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5999,
+		"longitude" : 10.6863,
+		"name" : "Palio dell'Angelica 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-10-20 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.638,
+		"longitude" : 10.457,
+		"name" : "Fiera d'ottobre 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2019-11-17 00:00:00.000000",
+		"place" : "Cremona",
+		"latitude" : 45.1351,
+		"longitude" : 10.0234,
+		"name" : "Festa del Torrone 2019",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2020-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8168,
+		"longitude" : -1.64299,
+		"name" : "Cabalgata de Los Reyes Magos 2020",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2020-02-16 00:00:00.000000",
+		"place" : "Mantova",
+		"latitude" : 45.1585,
+		"longitude" : 10.794,
+		"name" : "Festa di Carnevale 2020",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2020-02-22 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6314,
+		"longitude" : 10.5371,
+		"name" : "Festa di Carnevale 2020",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2020-09-27 00:00:00.000000",
+		"place" : "Quattro Castella - Scandiano",
+		"latitude" : 44.6299,
+		"longitude" : 10.4693,
+		"name" : "Gens Mathildis - Palio dell'Angelica 2020",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2020-10-04 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9215,
+		"longitude" : 10.6548,
+		"name" : "Festa dell'AVIS",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-05-19 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.7144,
+		"longitude" : 10.6496,
+		"name" : "Coppa Italia",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-05-23 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6362,
+		"longitude" : 10.4736,
+		"name" : "Passaggio auto storiche",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-07-25 00:00:00.000000",
+		"place" : "Neviano",
+		"latitude" : 44.5261,
+		"longitude" : 10.289,
+		"name" : "Sagra di Neviano",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-09-04 00:00:00.000000",
+		"place" : "Rossena",
+		"latitude" : 44.5816,
+		"longitude" : 10.426,
+		"name" : "Palio di Ciano 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-09-11 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6306,
+		"longitude" : 10.4695,
+		"name" : "Corteo Matildico 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-09-12 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6307,
+		"longitude" : 10.4694,
+		"name" : "Corteo Matildico 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-09-18 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8044,
+		"longitude" : 10.3277,
+		"name" : "Palio di Parma 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-09-25 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5985,
+		"longitude" : 10.6892,
+		"name" : "Palio dell'Angelica 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-09-26 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5985,
+		"longitude" : 10.6892,
+		"name" : "Palio dell'Angelica 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-10-02 00:00:00.000000",
+		"place" : "Albinea",
+		"latitude" : 44.6194,
+		"longitude" : 10.6023,
+		"name" : "Marcia della Pace 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-10-31 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6357,
+		"longitude" : 10.4706,
+		"name" : "Festa d'ottobre 2021",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2021-11-06 00:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8356,
+		"longitude" : 11.6168,
+		"name" : "Torneo di Singoli S. Giacomo",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2021-11-27 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8544,
+		"longitude" : 13.5755,
+		"name" : "Torneo \"Ready? Re-Start!\"",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2022-04-18 00:00:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6293,
+		"longitude" : 9.73161,
+		"name" : "Grande Tenzone Medievale 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-04-23 00:00:00.000000",
+		"place" : "Sassuolo",
+		"latitude" : 44.5422,
+		"longitude" : 10.7799,
+		"name" : "Festa di San Giorgio 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-04-24 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6357,
+		"longitude" : 10.4725,
+		"name" : "International classic cars challenge",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-04-30 00:00:00.000000",
+		"place" : "Casalgrande",
+		"latitude" : 44.5884,
+		"longitude" : 10.7362,
+		"name" : "Inaugurazione Big Bench",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-05-21 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9215,
+		"longitude" : 10.6561,
+		"name" : "Gnoccata di Guastalla",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-05-22 00:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9216,
+		"longitude" : 10.656,
+		"name" : "Gnoccata di Guastalla",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-05-28 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6309,
+		"longitude" : 10.4697,
+		"name" : "Corteo Storico Matildico 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-06-24 00:00:00.000000",
+		"place" : "Asti",
+		"latitude" : 44.8993,
+		"longitude" : 8.20453,
+		"name" : "Giochi Giovanili 2022",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2022-07-03 00:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.4962,
+		"longitude" : 10.6004,
+		"name" : "Tavola di Bisanzio 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-08-27 00:00:00.000000",
+		"place" : "Riva del Garda",
+		"latitude" : 45.8851,
+		"longitude" : 10.8421,
+		"name" : "Notte di fiaba",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-09-03 00:00:00.000000",
+		"place" : "Rossena",
+		"latitude" : 44.5822,
+		"longitude" : 10.4256,
+		"name" : "Palio di Ciano 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-09-09 00:00:00.000000",
+		"place" : "Querceta",
+		"latitude" : 43.9753,
+		"longitude" : 10.199,
+		"name" : "Tenzone Aurea 2022",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2022-10-08 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5984,
+		"longitude" : 10.6885,
+		"name" : "Palio dell'Angelica 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-10-09 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5983,
+		"longitude" : 10.688,
+		"name" : "Palio dell'Angelica 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-10-23 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6345,
+		"longitude" : 10.4725,
+		"name" : "Fiera d'ottobre 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-11-12 00:00:00.000000",
+		"place" : "Rubiera",
+		"latitude" : 44.6531,
+		"longitude" : 10.7812,
+		"name" : "Festa dell'AVIS",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-11-13 00:00:00.000000",
+		"place" : "Cremona",
+		"latitude" : 45.1335,
+		"longitude" : 10.0249,
+		"name" : "Festa del Torrone 2022",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2022-11-20 00:00:00.000000",
+		"place" : "Cavola di Toano",
+		"latitude" : 44.4014,
+		"longitude" : 10.5314,
+		"name" : "Festa del tartufo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8167,
+		"longitude" : -1.64618,
+		"name" : "Cabalgata de Los Reyes Magos 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-01-15 00:00:00.000000",
+		"place" : "Casalgrande",
+		"latitude" : 44.5894,
+		"longitude" : 10.738,
+		"name" : "Festa del cicciolo 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-01-29 00:00:00.000000",
+		"place" : "Canossa",
+		"latitude" : 44.576,
+		"longitude" : 10.4557,
+		"name" : "Forgiveness Festival 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-02-18 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6321,
+		"longitude" : 10.5373,
+		"name" : "Festa di Carnevale 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-02-25 00:00:00.000000",
+		"place" : "Cornaredo",
+		"latitude" : 45.5017,
+		"longitude" : 9.02583,
+		"name" : "Festa di Carnevale ",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-03-19 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6377,
+		"longitude" : 10.4758,
+		"name" : "Festa di Quattro Castella",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-04-10 00:00:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6319,
+		"longitude" : 9.73147,
+		"name" : "Grande Tenzone Medievale 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-04-23 00:00:00.000000",
+		"place" : "Sassuolo",
+		"latitude" : 44.5406,
+		"longitude" : 10.7834,
+		"name" : "Festa di San Giorgio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-05-27 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6317,
+		"longitude" : 10.4718,
+		"name" : "Corteo Storico Matildico 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-05-28 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6317,
+		"longitude" : 10.4717,
+		"name" : "Corteo Storico Matildico 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-06-07 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.6313,
+		"longitude" : 10.567,
+		"name" : "Festa di fine anno scolastico 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-06-10 00:00:00.000000",
+		"place" : "Montecchio Emilia",
+		"latitude" : 44.7002,
+		"longitude" : 10.4465,
+		"name" : "Monticulum 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-06-11 00:00:00.000000",
+		"place" : "Montecchio Emilia",
+		"latitude" : 44.7002,
+		"longitude" : 10.4464,
+		"name" : "Monticulum 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-06-18 00:00:00.000000",
+		"place" : "Polinago",
+		"latitude" : 44.3441,
+		"longitude" : 10.7233,
+		"name" : "Festa della ricotta",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-06-23 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8535,
+		"longitude" : 13.5776,
+		"name" : "Campionati Giovanili 2023",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2023-07-06 00:00:00.000000",
+		"place" : "Luzzara",
+		"latitude" : 44.9617,
+		"longitude" : 10.6869,
+		"name" : "Fiera di Luzzara",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-07-09 00:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.4958,
+		"longitude" : 10.6005,
+		"name" : "Tavola di Bisanzio 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-07-22 00:00:00.000000",
+		"place" : "Minozzo",
+		"latitude" : 44.3587,
+		"longitude" : 10.4352,
+		"name" : "Rievocazione storica di Minozzo 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-07-29 00:00:00.000000",
+		"place" : "Bibbiena",
+		"latitude" : 43.6955,
+		"longitude" : 11.8174,
+		"name" : "Bandiere sotto le stelle",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-08-12 00:00:00.000000",
+		"place" : "Bouillon",
+		"latitude" : 49.7925,
+		"longitude" : 5.0651,
+		"name" : "Fête Médiévale de Bouillon",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-09-02 00:00:00.000000",
+		"place" : "Canossa",
+		"latitude" : 44.5833,
+		"longitude" : 10.4266,
+		"name" : "Palio di Ciano 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-09-08 00:00:00.000000",
+		"place" : "Montagnana",
+		"latitude" : 45.2326,
+		"longitude" : 11.4668,
+		"name" : "Tenzone Aurea 2023",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2023-09-16 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.8069,
+		"longitude" : 10.3225,
+		"name" : "Palio di Parma 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-09-17 00:00:00.000000",
+		"place" : "Parma",
+		"latitude" : 44.807,
+		"longitude" : 10.3226,
+		"name" : "Palio di Parma 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-09-23 00:00:00.000000",
+		"place" : "Bologna",
+		"latitude" : 44.6152,
+		"longitude" : 11.3779,
+		"name" : "Festa aziendale One Express",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-09-23 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5984,
+		"longitude" : 10.6873,
+		"name" : "Palio dell'Angelica 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-09-24 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5984,
+		"longitude" : 10.6873,
+		"name" : "Palio dell'Angelica 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-10-07 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6362,
+		"longitude" : 10.4734,
+		"name" : "Marcia della Pace",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-10-15 00:00:00.000000",
+		"place" : "Cortogno",
+		"latitude" : 44.5302,
+		"longitude" : 10.4644,
+		"name" : "Spettacolo per turisti canadesi",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-10-22 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6364,
+		"longitude" : 10.4714,
+		"name" : "Fiera d'ottobre 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-10-29 00:00:00.000000",
+		"place" : "Albinea",
+		"latitude" : 44.6201,
+		"longitude" : 10.6025,
+		"name" : "Festa d'Autunno",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-11-12 00:00:00.000000",
+		"place" : "Cremona",
+		"latitude" : 45.1334,
+		"longitude" : 10.0249,
+		"name" : "Festa del Torrone 2023",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2023-12-15 00:00:00.000000",
+		"place" : "Monza",
+		"latitude" : 45.6173,
+		"longitude" : 9.28203,
+		"name" : "Guinness World Record",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-01-01 00:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8172,
+		"longitude" : -1.64283,
+		"name" : "Cabalgata de Los Reyes Magos 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-01-14 00:00:00.000000",
+		"place" : "Casalgrande",
+		"latitude" : 44.5888,
+		"longitude" : 10.7381,
+		"name" : "Festa del cicciolo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-01-28 00:00:00.000000",
+		"place" : "Canossa",
+		"latitude" : 44.5753,
+		"longitude" : 10.4551,
+		"name" : "Forgiveness Festival",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-02-04 00:00:00.000000",
+		"place" : "Borzano di Albinea",
+		"latitude" : 44.5998,
+		"longitude" : 10.6352,
+		"name" : "Festa di Carnevale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-02-17 00:00:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6315,
+		"longitude" : 10.5393,
+		"name" : "Festa di Carnevale 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-03-02 09:00:00.000000",
+		"place" : "Volterra",
+		"latitude" : 43.4037,
+		"longitude" : 10.8593,
+		"name" : "Torneo Fisb Città di Volterra",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2024-03-23 00:00:00.000000",
+		"place" : "Ceresara",
+		"latitude" : 45.2653,
+		"longitude" : 10.5672,
+		"name" : "Fiera della Possenta",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-04-01 00:00:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6291,
+		"longitude" : 9.7311,
+		"name" : "Grande Tenzone Medievale 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-04-21 09:00:00.000000",
+		"place" : "Querceta",
+		"latitude" : 43.9764,
+		"longitude" : 10.1996,
+		"name" : "Torneo Fisb",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2024-04-25 09:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8406,
+		"longitude" : 11.6203,
+		"name" : "XII Trofeo dell’Idra",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2024-05-18 09:00:00.000000",
+		"place" : "Ferrara",
+		"latitude" : 44.8406,
+		"longitude" : 11.6186,
+		"name" : "Corteo dell’Ente Palio",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-05-25 00:00:00.000000",
+		"place" : "Corteo",
+		"latitude" : 44.6308,
+		"longitude" : 10.4705,
+		"name" : "Corteo Storico Matildico 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-05-26 00:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6307,
+		"longitude" : 10.4704,
+		"name" : "Corteo Storico Matildico 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-05-31 00:00:00.000000",
+		"place" : "Puianello",
+		"latitude" : 44.631,
+		"longitude" : 10.5681,
+		"name" : "Festa di fine anno scolastico",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-06-01 00:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.698,
+		"longitude" : 10.6302,
+		"name" : "Festa fine anno Liceo IESS",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-06-09 09:00:00.000000",
+		"place" : "San Polo D'Enza",
+		"latitude" : 44.6359,
+		"longitude" : 10.4289,
+		"name" : "Campionati Femminili/Under 18 2024",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2024-06-10 12:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6278,
+		"longitude" : 10.4681,
+		"name" : "Riprese \"Geo & Geo\"",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-06-19 12:00:00.000000",
+		"place" : "Correggio",
+		"latitude" : 44.7707,
+		"longitude" : 10.7805,
+		"name" : "Festa campo estivo Grest",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-06-28 00:00:00.000000",
+		"place" : "Venaria Reale",
+		"latitude" : 45.1354,
+		"longitude" : 7.62487,
+		"name" : "Campionati Giovanili 2024",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2024-07-14 00:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.497,
+		"longitude" : 10.6015,
+		"name" : "Tavola di Bisanzio 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-07-19 00:00:00.000000",
+		"place" : "Ascoli",
+		"latitude" : 42.8535,
+		"longitude" : 13.578,
+		"name" : "Tenzone Argentea 2024",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2024-07-27 00:00:00.000000",
+		"place" : "Minozzo",
+		"latitude" : 44.3571,
+		"longitude" : 10.4329,
+		"name" : "Rievocazione storica di Minozzo",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-08-23 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5751,
+		"longitude" : 10.8471,
+		"name" : "Ludi di San Bartolomeo 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-08-24 00:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5752,
+		"longitude" : 10.8471,
+		"name" : "Ludi di San Bartolomeo 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-08-31 00:00:00.000000",
+		"place" : "Ciano d'Enza",
+		"latitude" : 44.5824,
+		"longitude" : 10.4266,
+		"name" : "Corteo di Ciano 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-09-04 20:30:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6978,
+		"longitude" : 10.6332,
+		"name" : "Fiera della Giareda",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-09-06 00:00:00.000000",
+		"place" : "Roma",
+		"latitude" : 41.8861,
+		"longitude" : 12.4855,
+		"name" : "Global Champions Arabians Tour",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-09-21 20:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6321,
+		"longitude" : 10.4696,
+		"name" : "Gens Mathildis",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-09-28 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5987,
+		"longitude" : 10.6919,
+		"name" : "Palio dell'Angelica 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-09-29 00:00:00.000000",
+		"place" : "Scandiano",
+		"latitude" : 44.5987,
+		"longitude" : 10.6917,
+		"name" : "Palio dell'Angelica 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-10-04 19:45:00.000000",
+		"place" : "Cortogno",
+		"latitude" : 44.5302,
+		"longitude" : 10.4643,
+		"name" : "Spettacolo per turisti stranieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-10-05 09:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6336,
+		"longitude" : 10.4741,
+		"name" : "Marcia della Pace 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-10-18 19:45:00.000000",
+		"place" : "Cortogno",
+		"latitude" : 44.5302,
+		"longitude" : 10.4643,
+		"name" : "Spettacolo per turisti stranieri",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-10-20 11:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6352,
+		"longitude" : 10.4724,
+		"name" : "Fiera d'ottobre 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-10-20 15:00:00.000000",
+		"place" : "Marola",
+		"latitude" : 44.4853,
+		"longitude" : 10.4848,
+		"name" : "Fiera della Castagna",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-11-02 08:00:00.000000",
+		"place" : "Narni",
+		"latitude" : 42.5196,
+		"longitude" : 12.515,
+		"name" : "Torneo con giuria popolare",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-11-08 18:00:00.000000",
+		"place" : "Bibbiano",
+		"latitude" : 44.6591,
+		"longitude" : 10.4672,
+		"name" : "Spettacolo per mostra",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-11-10 12:00:00.000000",
+		"place" : "Cremona",
+		"latitude" : 45.1364,
+		"longitude" : 10.0245,
+		"name" : "Festa del Torrone 2024",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2024-12-08 09:00:00.000000",
+		"place" : "Correggio",
+		"latitude" : 44.7694,
+		"longitude" : 10.7805,
+		"name" : "Sapori d'Autunno - Pro Loco",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-01-01 15:00:00.000000",
+		"place" : "Pamplona",
+		"latitude" : 42.8121,
+		"longitude" : -1.64949,
+		"name" : "Cabalgata de Los Reyes Magos 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-01-12 15:30:00.000000",
+		"place" : "Casalgrande",
+		"latitude" : 44.5888,
+		"longitude" : 10.7355,
+		"name" : "Sagra di Sant'Antonio 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-01-26 15:00:00.000000",
+		"place" : "Canossa",
+		"latitude" : 44.5755,
+		"longitude" : 10.4554,
+		"name" : "Forgiveness Festival 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-02-02 14:30:00.000000",
+		"place" : "Canossa",
+		"latitude" : 44.5757,
+		"longitude" : 10.4563,
+		"name" : "Forgiveness Festival 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-03-01 13:30:00.000000",
+		"place" : "Montecavolo",
+		"latitude" : 44.6314,
+		"longitude" : 10.5369,
+		"name" : "Festa di Carnevale 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-03-02 14:00:00.000000",
+		"place" : "Borzano",
+		"latitude" : 44.6006,
+		"longitude" : 10.6354,
+		"name" : "Festa di Carnevale 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-03-09 12:00:00.000000",
+		"place" : "Castelbelforte",
+		"latitude" : 45.2173,
+		"longitude" : 10.8931,
+		"name" : "Festa di Carnevale",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-03-22 09:00:00.000000",
+		"place" : "Ceresara",
+		"latitude" : 45.2644,
+		"longitude" : 10.5678,
+		"name" : "Fiera della Possenta 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-03-23 09:00:00.000000",
+		"place" : "San Benedetto, Ferrara",
+		"latitude" : 44.8426,
+		"longitude" : 11.6194,
+		"name" : "XVI Memorial Natalino Accorsi - XI Memorial Bruno Carrieri",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2025-03-23 09:00:00.000000",
+		"place" : "Ceresara",
+		"latitude" : 45.2641,
+		"longitude" : 10.5667,
+		"name" : "Fiera della Possenta 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-04-06 09:00:00.000000",
+		"place" : "Sulmona",
+		"latitude" : 42.0458,
+		"longitude" : 13.9263,
+		"name" : "Campionati Under 18/Femminili 2025",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2025-04-21 09:30:00.000000",
+		"place" : "Bardi",
+		"latitude" : 44.6331,
+		"longitude" : 9.72976,
+		"name" : "Grande Tenzone Medievale 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-04-26 08:00:00.000000",
+		"place" : "Gorizia",
+		"latitude" : 45.9443,
+		"longitude" : 13.626,
+		"name" : "Contea. Profumi di cultura europea",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-05-10 14:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6386,
+		"longitude" : 10.4573,
+		"name" : "VIII Torneo del Bianello",
+		"event_type" : "Torneo"
+	},
+	{
+		"start_date" : "2025-05-17 12:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.9205,
+		"longitude" : 10.6537,
+		"name" : "Gnoccata 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-05-18 12:00:00.000000",
+		"place" : "Guastalla",
+		"latitude" : 44.921,
+		"longitude" : 10.6536,
+		"name" : "Gnoccata 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-05-24 21:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6308,
+		"longitude" : 10.4685,
+		"name" : "Corteo Matildico 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-05-25 15:00:00.000000",
+		"place" : "Quattro Castella",
+		"latitude" : 44.6323,
+		"longitude" : 10.468,
+		"name" : "Corteo Matildico 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-05-31 08:30:00.000000",
+		"place" : "Correggio",
+		"latitude" : 44.771,
+		"longitude" : 10.78,
+		"name" : "Festa del Patrono",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-06-07 12:30:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7062,
+		"longitude" : 10.4425,
+		"name" : "Monticulum 2025 - Sabato",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-06-08 09:30:00.000000",
+		"place" : "Montecchio",
+		"latitude" : 44.7065,
+		"longitude" : 10.4426,
+		"name" : "Monticulum 2025 - Domenica",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-06-27 12:00:00.000000",
+		"place" : "Lugo",
+		"latitude" : 44.4202,
+		"longitude" : 11.9104,
+		"name" : "Campionati Under 2025",
+		"event_type" : "Campionato"
+	},
+	{
+		"start_date" : "2025-06-28 19:00:00.000000",
+		"place" : "Reggio Emilia",
+		"latitude" : 44.6998,
+		"longitude" : 10.6312,
+		"name" : "Cena in Bianco 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-07-06 12:00:00.000000",
+		"place" : "Montecreto",
+		"latitude" : 44.2461,
+		"longitude" : 10.718,
+		"name" : "Palio degli Asini",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-07-10 00:00:00.000000",
+		"place" : "Luzzara",
+		"latitude" : 44.9606,
+		"longitude" : 10.6864,
+		"name" : "Fiera di Luzzara",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-07-13 09:00:00.000000",
+		"place" : "Baiso",
+		"latitude" : 44.4963,
+		"longitude" : 10.6003,
+		"name" : "Tavola di Bisanzio 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-07-19 08:00:00.000000",
+		"place" : "Susa",
+		"latitude" : 45.1379,
+		"longitude" : 7.05461,
+		"name" : "Torneo Storico dei Borghi di Susa",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-08-03 17:00:00.000000",
+		"place" : "Pavullo",
+		"latitude" : 44.3369,
+		"longitude" : 10.8332,
+		"name" : "Festa",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-08-10 16:00:00.000000",
+		"place" : "Minozzo",
+		"latitude" : 44.3575,
+		"longitude" : 10.4329,
+		"name" : "Rievocazione storica di Minozzo 2025",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-08-23 19:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5758,
+		"longitude" : 10.8467,
+		"name" : "Ludi di San Bartolomeo 2025 - Sabato",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-08-24 10:00:00.000000",
+		"place" : "Formigine",
+		"latitude" : 44.5766,
+		"longitude" : 10.8467,
+		"name" : "Ludi di San Bartolomeo 2025 - Domenica",
+		"event_type" : "Uscita"
+	},
+	{
+		"start_date" : "2025-09-06 18:00:00.000000",
+		"place" : "Ciano d'Enza",
+		"latitude" : 44.5936,
+		"longitude" : 10.4095,
+		"name" : "Palio di Ciano 2025",
+		"event_type" : "Uscita"
+	}
+]
